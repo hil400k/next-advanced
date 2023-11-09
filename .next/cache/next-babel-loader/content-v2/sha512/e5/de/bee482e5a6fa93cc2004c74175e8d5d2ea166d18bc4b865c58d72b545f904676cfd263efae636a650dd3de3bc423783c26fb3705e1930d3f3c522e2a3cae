@@ -1,0 +1,1 @@
+{"ast":null,"code":"function HomePage() {}\n\n_c = HomePage;\n\nvar _c;\n\n$RefreshReg$(_c, \"HomePage\");","map":{"version":3,"sources":["/Users/dkhilchuk/Documents/dev-12-09-2023/next-advanced/pages/index.js"],"names":["HomePage"],"mappings":"AAAA,SAASA,QAAT,GAAoB,CAEnB;;KAFQA,Q","sourcesContent":["function HomePage() {\n  \n}\n"]},"metadata":{},"sourceType":"script"}

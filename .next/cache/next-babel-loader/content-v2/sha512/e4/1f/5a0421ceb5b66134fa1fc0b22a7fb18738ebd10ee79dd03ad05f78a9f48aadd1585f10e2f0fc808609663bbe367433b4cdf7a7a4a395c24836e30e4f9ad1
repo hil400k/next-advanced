@@ -1,0 +1,1 @@
+{"ast":null,"code":"function HomePage() {}","map":{"version":3,"sources":["/Users/dkhilchuk/Documents/dev-12-09-2023/next-advanced/pages/index.js"],"names":["HomePage"],"mappings":"AAAA,SAASA,QAAT,GAAoB,CAEnB","sourcesContent":["function HomePage() {\n  \n}\n"]},"metadata":{},"sourceType":"script"}

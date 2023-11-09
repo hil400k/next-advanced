@@ -1,0 +1,1 @@
+{"ast":null,"code":"function MeetupDetails() {}","map":{"version":3,"sources":["/Users/dkhilchuk/Documents/dev-12-09-2023/next-advanced/pages/[meetup-id]/index.js"],"names":["MeetupDetails"],"mappings":"AAAA,SAASA,aAAT,GAAyB,CAExB","sourcesContent":["function MeetupDetails() {\n  \n}\n"]},"metadata":{},"sourceType":"script"}
